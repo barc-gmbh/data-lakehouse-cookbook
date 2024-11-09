@@ -28,7 +28,7 @@ get the required support, and you have a Google account, you can try to use the 
 [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) service. Maybe
 ask and IT affine colleague for help. 
 
-To get started, please click on the link [Working with CSV files](01_working_with_csv_files.ipynb) provided below.
+To get started, please click on the link: [Working with CSV files](01_working_with_csv_files.ipynb).
 
 
 
