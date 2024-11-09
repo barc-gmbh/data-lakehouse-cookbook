@@ -1,4 +1,5 @@
-# Data Lakehouse Cookbook - Hands-On Tutorial
+# Data Lakehouse Cookbook 
+## A Hands-On Tutorial for Business Users
 
 #### A stepwise introduction to modern data lakehouse technologies for business users.
 
