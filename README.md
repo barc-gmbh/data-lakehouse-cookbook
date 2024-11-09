@@ -20,6 +20,8 @@
 
 ## Getting started
 This repository contains a stepwise, hands-on introduction to modern Data Lakehouse technologies for business users.
+It is part of a BARC *Data Lakehouse Cookbook* research paper and can be downloaded here 
+(expected end of November 2024): [BARC Data Lakehouse Cookbook](https://www.dremio.com/lp/barc-data-lakehouse-cookbook/).
 Everyone interested in modern data management technologies should be able to read and follow this cookbook.
 
 If you don't have the permissions to install software (Python and a code editor) on your computer, 
